@@ -1,0 +1,46 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+.font {
+    font-family: 'Varela Round', sans-serif;
+}
+.bg-colortoAdmin{
+    background-color: orange;
+    background-image: url(../images/bgcolorre.png);
+}
+.bg-colortopUser {
+    background-color: orange;
+    background-image: url(../images/bgcolor.png);
+}
+
+.sb-colorside {
+    background-color: #00b25b ;
+}
+
+.sb-colorsideUser {
+    background-color: #f37029;
+}
+
+.card-navAdmin{
+    background-color: #ceffce;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.card-navUser{
+    background-color: #ffeeee;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.card{
+    
+}
+
+
